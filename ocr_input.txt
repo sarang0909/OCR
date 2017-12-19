@@ -1,0 +1,4 @@
+tessedit_write_images T
+words_default_fixed_space 0.20
+pageseg_devanagari_split_strategy 1
+ocr_devanagari_split_strategy 1
